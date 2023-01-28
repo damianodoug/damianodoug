@@ -7,11 +7,6 @@
         <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
     </div>
     <hr>
-    <form>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name">
-        <input type="submit" value="Submit">
-    </form>
 </section>
 
   <!-- <div>
