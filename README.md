@@ -3,8 +3,8 @@
         <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=damianodoug&data=followers,repositories,stars,commits&theme=aether" alt="Dashboard Widget">
     </div>
     <div style="display: flex; flex-direction: row;">
-        <img width="50%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,javascript,python,go,mysql,postgresql&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
-        <img width="50%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
+        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,javascript,python,go,mysql,postgresql&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
+        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
     </div>
     <hr>
     <!-- <div>
