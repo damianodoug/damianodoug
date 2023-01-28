@@ -7,9 +7,14 @@
         <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
     </div>
     <hr>
-    <input type="text">
-    <!-- <div>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <input type="submit" value="Submit">
+    </form>
+</section>
+
+  <!-- <div>
         <img src="https://github-readme-stats.vercel.app/api?username=damianodoug&show_icons=true&hide_border=true&bg_color=101820&icon_color=cf6bdd&text_color=bfbfbf&border_radius=10&include_all_commits=true&count_private=true&custom_title=Satus&title_color=cf6bdd&text_bold=false&layout=compact">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianodoug&layout=compact&hide_border=true&bg_color=101820&icon_color=cf6bdd&text_color=bfbfbf&border_radius=10&title_color=cf6bdd&text_bold=false"/>
     </div> -->
-</section>
