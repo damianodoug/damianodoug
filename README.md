@@ -1,4 +1,5 @@
-<style>
+<head>
+    <style>
     /* Add alt attribute to img element */
     img[alt="Dashboard"] {
         alt: "Dashboard Widget";
@@ -23,6 +24,7 @@
         /* Add styles for even larger screens, such as laptops and desktops */
     }
 </style>
+</head>
 
 <section>
     <div align="center">
