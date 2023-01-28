@@ -1,4 +1,4 @@
-<section>
+<section style="pointer-events: none;">
     <div align="center">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=damianodoug&data=followers,repositories,stars,commits&theme=aether" alt="Dashboard Widget">
     </div>
