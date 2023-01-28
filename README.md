@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**damianodoug/damianodoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section>
+    <div align="center">
+        <img with="100%" src="https://github-widgetbox.vercel.app/api/profile?username=damianodoug&data=followers,repositories,stars,commits&theme=aether" alt="Dashboard">
+    </div>
+    <div>
+        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,javascript,python,go,mysql,postgresql&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+    </div>
+    <hr>
+</section>
