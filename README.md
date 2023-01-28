@@ -1,38 +1,10 @@
-<head>
-    <style>
-    /* Add alt attribute to img element */
-    img[alt="Dashboard"] {
-        alt: "Dashboard Widget";
-    }
-    /* Add alt attribute to img element */
-    img[alt="GitHub WidgetBox"] {
-        alt: "GitHub Skills Widget";
-    }
-    /* Add media queries for different screen sizes */
-    @media only screen and (max-width: 768px) {
-        img {
-            width: 100%;
-        }
-    }
-    @media only screen and (max-width: 576px) {
-        /* Add styles for smaller screens, such as mobile devices */
-    }
-    @media only screen and (min-width: 769px) and (max-width: 992px) {
-        /* Add styles for larger screens, such as tablets */
-    }
-    @media only screen and (min-width: 993px) {
-        /* Add styles for even larger screens, such as laptops and desktops */
-    }
-</style>
-</head>
-
 <section>
     <div align="center">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=damianodoug&data=followers,repositories,stars,commits&theme=aether" alt="Dashboard Widget">
+        <img width="90%" src="https://github-widgetbox.vercel.app/api/profile?username=damianodoug&data=followers,repositories,stars,commits&theme=aether" alt="Dashboard Widget">
     </div>
-    <div>
-        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,javascript,python,go,mysql,postgresql&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
-        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
+    <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+        <img width="50%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,javascript,python,go,mysql,postgresql&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
+        <img width="50%" src="https://github-widgetbox.vercel.app/api/skills?tools=mongodb,docker,apache,nginx,nodejs,heroku,aws&includeNames=true&theme=aether" alt="GitHub Skills Widget" />
     </div>
     <hr>
     <!-- <div>
