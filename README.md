@@ -9,5 +9,5 @@
         </a>
     </div>
     <hr>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=damianodoug&show_icons=true&hide_border=true&bg_color=101820&icon_color=cf6bdd&text_color=bfbfbf&border_radius=10&include_all_commits=true&count_private=true&hide_title=true&title_color=cf6bdd&text_bold=false&layout=compact"></a>
+    <div align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=damianodoug&show_icons=true&hide_border=true&bg_color=0D1622&icon_color=cf6bdd&text_color=bfbfbf&border_radius=10&include_all_commits=true&count_private=true&hide_title=true&title_color=cf6bdd&text_bold=false&layout=compact"></a></div>
 </section>
